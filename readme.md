@@ -58,7 +58,7 @@
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+<img src="images/breakdownschets.jpg" width="960px" alt="Breakdownschets">
 
 
 
