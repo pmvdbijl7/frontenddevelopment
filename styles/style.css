@@ -1,5 +1,57 @@
 /* CSS Document */
 *, *::after, *::before {
-  box-sizing:border-box;  
+  box-sizing: border-box;
+  margin: 0; padding: 0;
 }
 
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+section {
+  margin-right: 6%;
+  margin-left: 6%;
+}
+
+/* HEADER */
+
+
+/* MAIN */
+/* First section */
+main section:nth-of-type(1) h1 {
+  font-size: 2.8125em;
+  color: #08104d;
+  text-align: center;
+}
+
+main section:nth-of-type(1) h1 span {
+  color: #ff4b36;
+}
+main section:nth-of-type(1) ul {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+main section:nth-of-type(1) ul li {
+  display: block;
+}
+
+main section:nth-of-type(1) ul li a {
+  padding: 1.25em 2.375em;
+  border-radius: .625em;
+  border: 2px solid transparent;
+  font-size: .875em;
+  font-weight: 600;
+  line-height: 1em;
+  background-color: #ff4b36;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+main section:nth-of-type(1) ul li a::after {
+  content: " ⟶";
+}
+
+/* FOOTER */
