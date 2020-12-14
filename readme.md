@@ -34,7 +34,7 @@
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Aangezien ik nog niet heel veel code had geschreven waren er ook niet veel opmerkingen. Wat goed ging tot aan dit eerste voortgangsgesprek was het maken van de html structuur. Waar ik nog wel een beetje moeite mee had was het gebruiken van flex voor de responsiveness, omdat ik hier nog niet zo bekend mee ben.
 
 **Screenshot(s):**
 
