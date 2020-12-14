@@ -6,52 +6,198 @@
 
 body {
   font-family: 'Montserrat', sans-serif;
+  --primary-color: #ff4b36;
+  --secondary-color: #08104d;
+  --text-color: #666a80;
 }
 
-section {
+main > section {
   margin-right: 6%;
   margin-left: 6%;
 }
 
-/* HEADER */
+p {
+  color: var(--text-color);
+}
+
+/************************/
+/*        HEADER        */
+/************************/
+header {
+  height: 70px;
+  border-bottom: 1px solid #d7e3f7;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 6%;
+}
+
+header a img {
+  height: 35px;
+}
+
+header nav {
+  width: 58px;
+  height: 58px;
+  background-color: var(--secondary-color);
+  border-radius: 50%;
+}
+
+header nav button {
+  position: relative;
+  display: block;
+  width: 28px;
+  height: 11px;
+  left: calc(50% - 14px);
+  top: calc(50% - 5px);
+}
+
+header nav button span {
+  position: absolute;
+  left: 0;
+  height: 1px;
+  width: 100%;
+  background-color: #fff;
+  border-radius: 12px;
+}
+
+header div span:nth-of-type(1) {
+  top: 0;
+}
+
+header div span:nth-of-type(2) {
+  top: 5px;
+}
+
+header div span:nth-of-type(3) {
+  bottom: 0;
+}
 
 
-/* MAIN */
-/* First section */
+/*************************/
+/*     FIRST SECTION     */
+/*************************/
+main section:nth-of-type(1) {
+  margin-top: 10%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 main section:nth-of-type(1) h1 {
-  font-size: 2.8125em;
-  color: #08104d;
+  font-size: 40px;
+  line-height: 1;
+  color: var(--secondary-color);
   text-align: center;
+  letter-spacing: -.05em;
 }
 
 main section:nth-of-type(1) h1 span {
-  color: #ff4b36;
+  color: var(--primary-color);
 }
-main section:nth-of-type(1) ul {
-  display: flex;
+
+main section:nth-of-type(1) ul:first-of-type {
   list-style: none;
-  flex-wrap: wrap;
+  display: flex;
   justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 1em;
 }
 
-main section:nth-of-type(1) ul li {
-  display: block;
-}
-
-main section:nth-of-type(1) ul li a {
-  padding: 1.25em 2.375em;
-  border-radius: .625em;
-  border: 2px solid transparent;
-  font-size: .875em;
+main section:nth-of-type(1) ul:first-of-type a {
+  color: #fff;
+  background-color: var(--primary-color);
+  padding: 20px 38px;
+  border-radius: 10px;
   font-weight: 600;
-  line-height: 1em;
-  background-color: #ff4b36;
-  color: #ffffff;
+  font-size: 14px;
+  display: block;
   text-decoration: none;
+  border: 2px solid transparent;
 }
 
-main section:nth-of-type(1) ul li a::after {
-  content: " ⟶";
+main section:nth-of-type(1) ul:first-of-type a::after {
+  content: "⟶";
+  display: inline-block;
+  transform-origin: left center;
+  transform: scaleX(1.2);
+  margin-left: .5em;
 }
 
-/* FOOTER */
+main section:nth-of-type(1) ul:first-of-type li:last-of-type a {
+  background-color: var(--secondary-color);
+  margin-top: 1em;
+}
+
+main section:nth-of-type(1) div {
+  margin-top: 2em;
+  position: relative;
+  /*background-color: green;*/
+  height: 183px;
+  width: 130px;
+}
+
+@keyframes scherm {
+  0% {
+    opacity: 0;
+    transform: translateY(150px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes mannetje {
+  0% {
+    opacity: 0;
+    transform: translateX(-150px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+main section:nth-of-type(1) div img {
+  position: absolute;
+}
+
+main section:nth-of-type(1) img:first-of-type {
+  width: 122px;
+  height: 123px;
+  left: 0;
+  top: 0;
+  animation-name: scherm;
+  animation-duration: 1s;
+}
+
+main section:nth-of-type(1) img:last-of-type {
+  width: 76px;
+  height: 112px;
+  left: 20px;
+  top: 60px;
+  animation-name: mannetje;
+  animation-duration: 1s;
+  animation-delay: .4s;
+  animation-fill-mode: backwards, forwards;
+}
+
+main section:nth-of-type(1) section ul:last-of-type {
+  position: absolute;
+  display: flex;
+  bottom: 10px;
+  right: 6%;
+  list-style: none;
+}
+
+main section:nth-of-type(1) section ul:last-of-type a {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background-color: var(--primary-color);
+}
+
+/************************/
+/*        FOOTER        */
+/************************/
