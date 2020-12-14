@@ -44,15 +44,15 @@
 
 -samen met je groepje opstellen-
 
-| Midas          | Moon            | Patrick      | ---              |
-| ---            | ---             | ---          | ---              |
-| Basis code     | Grid en         | Code check   | ---              |
-| check          | responsiveness  | en opdracht  | ---              |
-| ...            | ...             | ...          | ...              |
+| Midas          | Moon            | Patrick      |
+| ---            | ---             | ---          |
+| Basis code     | Grid en         | Code check   |
+| check          | responsiveness  | en opdracht  |
+| ...            | ...             | ...          |
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Met deze eerste meeting had ik niet veel vragen. Ik was namelijk nog niet zo heel ver en had alleen de html code en een beetje css geschreven. Daarom wilde ik alleen mijn code laten nakijken of het semantisch correct is en wat er eventueel beter kan. Daarnaast had ik nog wat vragen over de opdracht. Ik vroeg me af of de afmetingen die ik op mijn website heb, exact hetzelfde moeten zijn als de website die ik na maak. Dit was uiteindelijk niet nodig, want je mag zelfs een aantal dingen veranderen aan de website als je vindt dat het beter kan.
 
 
 
