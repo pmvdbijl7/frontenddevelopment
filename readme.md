@@ -40,7 +40,7 @@ Aangezien ik nog niet heel veel code had geschreven waren er ook niet veel opmer
 
 <img src="images/readme/voortgang1.jpg" width="250px" alt="Home pagina">
 
-Voor dit eerste voortgangsgesprek was ik alleen nog toe gekomen aan de header en de eerste section. Hierboven zie het resultaat tot nu toe.
+Voor dit eerste voortgangsgesprek was ik alleen nog toe gekomen aan de header en de eerste section. Hierboven zie je het resultaat tot nu toe.
 
 ### Agenda voor meeting
 
