@@ -38,11 +38,11 @@
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+<img src="images/voortgang1.jpg" width="375px" alt="Home pagina">
+
+Voor dit eerste voortgangsgesprek was ik alleen nog toe gekomen aan de header en de eerste section. Hierboven zie het resultaat tot nu toe.
 
 ### Agenda voor meeting
-
--samen met je groepje opstellen-
 
 | Midas          | Moon            | Patrick      |
 | ---            | ---             | ---          |
