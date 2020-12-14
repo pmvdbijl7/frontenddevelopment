@@ -38,7 +38,7 @@
 
 **Screenshot(s):**
 
-<img src="images/readme/voortgang1.jpg" width="375px" alt="Home pagina">
+<img src="images/readme/voortgang1.jpg" width="250px" alt="Home pagina">
 
 Voor dit eerste voortgangsgesprek was ik alleen nog toe gekomen aan de header en de eerste section. Hierboven zie het resultaat tot nu toe.
 
