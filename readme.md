@@ -22,13 +22,13 @@
 
 ### Stand van zaken
 
-In deze week heb ik niet heel veel progressie gemaakt, omdat ik druk bezig was met de andere vakken. Ik ben van plan om in de vakantie hiermee verder te gaan.
+In deze week heb ik niet heel veel progressie gemaakt, omdat ik druk bezig was met de andere vakken. Ik ben wel al verder gegaan met de 2e sectie van de home-pagina. Ik ben van plan om in de vakantie hiermee verder te gaan.
 
 **Screenshot(s):**
 
 <img src="images/readme/voortgang_week6.jpg" width="250px" alt="Home pagina">
 
-Voor dit eerste voortgangsgesprek was ik alleen nog toe gekomen aan de header en de eerste section. Hierboven zie je het resultaat tot nu toe.
+Hierboven zie je de 2e sectie van de home-pagina. Verder ben ik nog niet gekomen.
 
 ### Agenda voor meeting
 
@@ -53,7 +53,7 @@ Deze week ben ik verder gegaan met het maken van de eerste sectie van de home-pa
 
 <img src="images/readme/voortgang_week5.jpg" width="250px" alt="Home pagina">
 
-Voor dit eerste voortgangsgesprek was ik alleen nog toe gekomen aan de header en de eerste section. Hierboven zie je het resultaat tot nu toe.
+Hierboven zie je wat ik tot nu toe van de home-pagina heb kunnen maken.
 
 ### Agenda voor meeting
 
