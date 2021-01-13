@@ -22,6 +22,11 @@ Wat niet goed ging was het maken van de eerste sectie, omdat ik het te moeilijk 
 Hierboven zijn een aantal screenshots te zien van mijn nagemaakte website van Beacon Social. Het zal niet identiek zijn aan de originele website van Beacon Social, omdat ik vond dat er een aantal dingen anders en mooier gedaan konden worden.
 
 
+**Screenreader**
+Tijdens het gebruiken van de screenreader ben ik erachter gekomen dat ik sommige "alt" teksten op een andere manier moest verwoorden zodat het voor blinde mensen makkelijker te begrijpen is. Daarnaast heb ik ervoor gezorgd dat elke section in ieder geval begint met een koptekst (h1, h2, h3, enz..), zodat deze altijd als eerste wordt voorgelezen en de gebruiker begrijpt bij welke section hij/zij dan is.
+Ik ben er ook achter gekomen dat ik eigenlijk aria-hidden="true" zou moeten toepassen op de "ul's" en "li's", omdat deze steeds opnieuw worden voorgelezen, wat heel erg lang kan duren.
+
+
 
 ## Voortgang 3 (week 6)
 
