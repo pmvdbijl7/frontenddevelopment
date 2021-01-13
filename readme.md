@@ -26,7 +26,27 @@
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+
+Deze week ben ik verder gegaan met het maken van de eerste sectie van de home-pagina. Het is met gelukt om alles in correct semantisch html te zetten alleen heb ik wel wat moeite met het positioneren van de elementen. Vooral de afbeeldingen zijn lastig om te positioneren aangezien ze ook een animatie nodig hebben.
+
+**Screenshot(s):**
+
+<img src="images/readme/voortgang1.jpg" width="250px" alt="Home pagina">
+
+Voor dit eerste voortgangsgesprek was ik alleen nog toe gekomen aan de header en de eerste section. Hierboven zie je het resultaat tot nu toe.
+
+### Agenda voor meeting
+
+| Midas          | Moon            | Patrick         |
+| ---            | ---             | ---             |
+| Basis code     | Hover state     | Code check      |
+| check          | en html code    | , positioneren  |
+|                |                 | en animeren     |
+
+### Verslag van meeting
+
+Tijdens deze meeting heb ik weer even nagevraagd of mijn code correct is. Gelukkig was dit wel het geval. Echter had ik wel moeite met het positioneren van de afbeeldingen in de eerste sectie. Ik kwam er maar niet uit hoe ik deze het best boven elkaar kon zetten en ook nog eens kon animeren. Hier heb ik dus even hulp om gevraagd. Sanne gaf aan dat ik in dit geval wél een <div> kon gebruiken om de afbeeldingen te groeperen, zodat ik ze makkelijker kan positioneren. Dit geld dan voor de <div> zelf en de afbeeldingen in de <div>. Daarnaast heeft Sanne mij geholpen met het animeren van de afbeeldingen. Deze moeten namelijk "infaden" wanneer de pagina wordt geladen.
 
 
 
@@ -48,7 +68,6 @@ Voor dit eerste voortgangsgesprek was ik alleen nog toe gekomen aan de header en
 | ---            | ---             | ---          |
 | Basis code     | Grid en         | Code check   |
 | check          | responsiveness  | en opdracht  |
-| ...            | ...             | ...          |
 
 ### Verslag van meeting
 
