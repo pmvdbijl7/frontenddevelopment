@@ -2,19 +2,24 @@
 **Auteur:** Patrick van der Bijl (500823037)
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://beaconsocial.com/
+2. https://css-tricks.com/
 
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Wat heel erg goed ging was het gebruiken van animaties en de media-queries. Daarnaast ging het positioneren van de afbeeldingen uiteindelijk ook goed. Hier had ik eerst namelijk wel moeite mee. Waar ik ook erg blij mee ben is de sectie met de "vliegende" telefoon schermen, omdat deze perfect responsive is en de animatie ook goed werkt.
+
+Wat niet goed ging was het maken van de eerste sectie, omdat ik het te moeilijk vond om een carousel te maken. Ik moet er wel bij zeggen dat ik eerst aan de slag ben gegaan met alle andere secties, zodat ik het moeilijkste als laatst kon doen. Daarnaast had ik ook wat moeite flex-box, omdat het mij niet lukte deze juist toe te passen in de footer. Ik wilde graag dat de balk met copyright erin helemaal in zijn volledige breedte onderaan de pagina staat.
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+<img src="images/readme/eindgesprek_1.jpg" width="250px" alt="Home pagina section">
+<img src="images/readme/eindgesprek_2.jpg" width="250px" alt="Home pagina section">
+<img src="images/readme/eindgesprek_3.jpg" width="250px" alt="About pagina section">
+
+Hierboven zijn een aantal screenshots te zien van mijn nagemaakte website van Beacon Social. Het zal niet identiek zijn aan de originele website van Beacon Social, omdat ik vond dat er een aantal dingen anders en mooier gedaan konden worden.
 
 
 
