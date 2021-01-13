@@ -20,7 +20,26 @@
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+### Stand van zaken
+
+In deze week heb ik niet heel veel progressie gemaakt, omdat ik druk bezig was met de andere vakken. Ik ben van plan om in de vakantie hiermee verder te gaan.
+
+**Screenshot(s):**
+
+<img src="images/readme/voortgang1.jpg" width="250px" alt="Home pagina">
+
+Voor dit eerste voortgangsgesprek was ik alleen nog toe gekomen aan de header en de eerste section. Hierboven zie je het resultaat tot nu toe.
+
+### Agenda voor meeting
+
+| Midas          | Moon            | Patrick         |
+| ---            | ---             | ---             |
+| Basis code     | Basis code      | Code check      |
+| check          | check           |                 |
+
+### Verslag van meeting
+
+Met deze meeting heb ik zoals met elke meeting even een code check gedaan van de nieuwe code die ik getypt had. Deze was over het algemeen goed, al was het niet erg veel. Ik heb verteld dat ik in de vakantie verder ga werken en dus ook een begin ga maken met de about-pagina.
 
 
 
