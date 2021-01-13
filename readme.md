@@ -26,7 +26,7 @@ In deze week heb ik niet heel veel progressie gemaakt, omdat ik druk bezig was m
 
 **Screenshot(s):**
 
-<img src="images/readme/voortgang1.jpg" width="250px" alt="Home pagina">
+<img src="images/readme/voortgang_week6.jpg" width="250px" alt="Home pagina">
 
 Voor dit eerste voortgangsgesprek was ik alleen nog toe gekomen aan de header en de eerste section. Hierboven zie je het resultaat tot nu toe.
 
@@ -51,7 +51,7 @@ Deze week ben ik verder gegaan met het maken van de eerste sectie van de home-pa
 
 **Screenshot(s):**
 
-<img src="images/readme/voortgang1.jpg" width="250px" alt="Home pagina">
+<img src="images/readme/voortgang_week5.jpg" width="250px" alt="Home pagina">
 
 Voor dit eerste voortgangsgesprek was ik alleen nog toe gekomen aan de header en de eerste section. Hierboven zie je het resultaat tot nu toe.
 
@@ -77,7 +77,7 @@ Aangezien ik nog niet heel veel code had geschreven waren er ook niet veel opmer
 
 **Screenshot(s):**
 
-<img src="images/readme/voortgang1.jpg" width="250px" alt="Home pagina">
+<img src="images/readme/voortgang_week3.jpg" width="250px" alt="Home pagina">
 
 Voor dit eerste voortgangsgesprek was ik alleen nog toe gekomen aan de header en de eerste section. Hierboven zie je het resultaat tot nu toe.
 
