@@ -40,13 +40,13 @@ Voor dit eerste voortgangsgesprek was ik alleen nog toe gekomen aan de header en
 
 | Midas          | Moon            | Patrick         |
 | ---            | ---             | ---             |
-| Basis code     | Hover state     | Code check      |
-| check          | en html code    | , positioneren  |
+| Basis code     | Hover state     | Code check,     |
+| check          | en html code    | positioneren    |
 |                |                 | en animeren     |
 
 ### Verslag van meeting
 
-Tijdens deze meeting heb ik weer even nagevraagd of mijn code correct is. Gelukkig was dit wel het geval. Echter had ik wel moeite met het positioneren van de afbeeldingen in de eerste sectie. Ik kwam er maar niet uit hoe ik deze het best boven elkaar kon zetten en ook nog eens kon animeren. Hier heb ik dus even hulp om gevraagd. Sanne gaf aan dat ik in dit geval wél een <div> kon gebruiken om de afbeeldingen te groeperen, zodat ik ze makkelijker kan positioneren. Dit geld dan voor de <div> zelf en de afbeeldingen in de <div>. Daarnaast heeft Sanne mij geholpen met het animeren van de afbeeldingen. Deze moeten namelijk "infaden" wanneer de pagina wordt geladen.
+Tijdens deze meeting heb ik weer even nagevraagd of mijn code correct is. Gelukkig was dit wel het geval. Echter had ik wel moeite met het positioneren van de afbeeldingen in de eerste sectie. Ik kwam er maar niet uit hoe ik deze het best boven elkaar kon zetten en ook nog eens kon animeren. Hier heb ik dus even hulp om gevraagd. Sanne gaf aan dat ik in dit geval wél een "<div>" kon gebruiken om de afbeeldingen te groeperen, zodat ik ze makkelijker kan positioneren. Dit geld dan voor de "<div>" zelf en de afbeeldingen in de "<div>". Daarnaast heeft Sanne mij geholpen met het animeren van de afbeeldingen. Deze moeten namelijk "infaden" wanneer de pagina wordt geladen.
 
 
 
