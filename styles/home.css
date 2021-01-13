@@ -178,8 +178,10 @@ main section:nth-of-type(4) {
 
 main section:nth-of-type(4) .img-group {
     order: -1;
-    width: 300px;
+    width: 200px;
     height: 200px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 @keyframes dashed-line {
@@ -230,6 +232,28 @@ main section:nth-of-type(4) p {
 
 main section:nth-of-type(4) a {
     width: fit-content;
+}
+
+@media (min-width: 414px) {
+    main section:nth-of-type(4) .img-group {
+        width: 250px;
+        height: 250px;
+    }
+}
+
+@media (min-width: 768px) {
+    main section:nth-of-type(4) .img-group {
+        width: 300px;
+        height: 300px;
+    }
+
+    main section:nth-of-type(4) h2, main section:nth-of-type(4) p {
+        text-align: center;
+    }
+
+    main section:nth-of-type(4) a {
+        margin: 0 auto;
+    }
 }
 
 
@@ -400,6 +424,7 @@ main section:nth-of-type(6) a {
         margin: 0;
         position: absolute;
         right: -5%;
+        overflow-y: hidden;
         transform: translateY(-200px);
     }
 }
