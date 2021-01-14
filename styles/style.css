@@ -48,6 +48,13 @@ p {
     margin-top: 1em;
 }
 
+@media (min-width: 420px) {
+    .btn-group > a:last-of-type {
+        margin-top: unset;
+        margin-left: 1em;
+    }
+}
+
 .btn {
     color: #fff;
     background-color: var(--primary-color);

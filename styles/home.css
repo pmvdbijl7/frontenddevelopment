@@ -1,8 +1,94 @@
 /*************************/
 /*     FIRST SECTION     */
 /*************************/
-main section:nth-of-type(1) img {
+main section:nth-of-type(1) {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+main section:nth-of-type(1) ul {
+    display: flex;
+    overflow-x: hidden;
+    list-style: none;
+}
+
+main section:nth-of-type(1) li {
+    position: relative;
+    flex: 0 0 100%;
+    width: 100%;
+}
+
+main section:nth-of-type(1) h1 {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+main section:nth-of-type(1) p {
+    max-width: 768px;
+    text-align: center;
+    margin: .5em auto 2em auto;
     display: none;
+    font-size: 18px;
+}
+
+main section:nth-of-type(1) .img-group {
+    width: 200px;
+    height: 200px;
+    margin: 2em auto 0 auto;
+}
+
+@keyframes dashboard-screen {
+    0% {
+        opacity: 0;
+        transform: translate(-50% ,150px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(-50%);
+    }
+}
+
+main section:nth-of-type(1) img:first-of-type {
+    width: 60%;
+    left: 50%;
+    transform: translateX(-50%);
+    animation-name: dashboard-screen;
+    animation-duration: .5s;
+    animation-timing-function: ease-out;
+}
+
+@keyframes man-pointing {
+    0% {
+        opacity: 0;
+        transform: translateX(-150px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(-50%);
+    }
+}
+
+main section:nth-of-type(1) img:last-of-type {
+    width: 40%;
+    left: 50%;
+    top: 30%;
+    transform: translateX(-50%);
+    animation-name: man-pointing;
+    animation-duration: .5s;
+    animation-delay: .6s;
+    animation-fill-mode: backwards, forwards;
+}
+
+@media (min-width: 768px) {
+    main section:nth-of-type(1) {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    main section:nth-of-type(1) p {
+        display: block;
+    }
 }
 
 
